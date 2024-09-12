@@ -1,6 +1,5 @@
 .DS_store
 .vscode
-.migrations
 node_modules
 dist
 .env

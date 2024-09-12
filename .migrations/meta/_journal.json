@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1725930491207,
+      "tag": "0000_futuristic_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725966430277,
+      "tag": "0001_overconfident_dracula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1725967377822,
+      "tag": "0002_nappy_captain_stacy",
+      "breakpoints": true
+    }
+  ]
+}
